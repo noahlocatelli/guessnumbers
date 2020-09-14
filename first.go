@@ -19,7 +19,9 @@ func main()  {
 		if try<number {
 			fmt.Println("plus")
 
-		} else if try>number {fmt.Println("moins")} else if try==number{fmt.Print("égale")}
-break
+		} else if try>number {fmt.Println("moins")} else if try==number{fmt.Print("égale bien joué")
+		break}
+
 	}
+
 }
